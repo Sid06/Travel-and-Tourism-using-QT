@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>Images/loginPicutre.jpg</file>
+        <file>Images/About-Us.png</file>
+        <file>Images/back.jpeg</file>
+        <file>Images/16348.jpg</file>
+        <file>Images/HardRockHotelSG-Exterior.jpg</file>
+        <file>Images/images (1).jpg</file>
+        <file>Images/images.jpg</file>
+        <file>Images/pattern.jpg</file>
+        <file>Images/photo_01.jpg</file>
+        <file>Images/PremierTest0.jpg</file>
+        <file>Images/2184497.png</file>
+        <file>Images/features-headers-creative.jpg</file>
+        <file>Images/8Tx9A9nTp.jpg</file>
+        <file>Images/269516.jpg</file>
+        <file>Images/20358629-funny-blue-car-cartoon-isolated-on-white-background.jpg</file>
+        <file>Images/blue_car_vector_147356.jpg</file>
+        <file>Images/minibus_blue.png</file>
+        <file>Images/Flechazo.jpg</file>
+        <file>Images/le-cirque-to-add-more-restaurant-564ac9aa6a.jpg</file>
+        <file>Images/OB-MF579_iresta_D_20110201083105.jpg</file>
+        <file>Images/O-Pedro-BKC-Mumbai.jpg</file>
+        <file>Images/Sakura.jpg</file>
+        <file>Images/download.jpg</file>
+        <file>Images/Travel-HD-wallpapers-15.jpg</file>
+        <file>Images/57856.jpg</file>
+        <file>Images/disco-dba865f1.png</file>
+        <file>Images/feu_dartifice_du_14_juillet_2012_sur_le_sites_de_la_tour_eiffel_et_du_trocadro_paris_vu_de_la_tour_montparnasse_fireworks_on_eiffel_tower_517028.jpg</file>
+        <file>Images/wp2003957.jpg</file>
+        <file>Images/inspirational-quotes.jpg</file>
+        <file>Images/website-contact-us-icons-post-internet-page-concept-icon-five-paper-isolated-white-background-32678534.png</file>
+    </qresource>
+</RCC>
